@@ -10,7 +10,6 @@ Drink menuSeleccionadoDrink2 = menuNinja.ServeDrink();
 Food menuSeleccionadoFood3 = menuNinja.ServeFood();
 Drink menuSeleccionadoDrink3 = menuNinja.ServeDrink();
 
-//menuSeleccionadoDrink2.GetInfo();
 ninjaGoloso.Consume(menuSeleccionadoDrink2);
 ninjaGoloso.Consume(menuSeleccionadoFood2);
 ninjaGoloso.Consume(menuSeleccionadoDrink3);
